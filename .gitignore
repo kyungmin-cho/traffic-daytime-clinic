@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+data/raw/
+data/processed/
+outputs/qa/previews/
+outputs/tables/medical_all_metrics.csv
+.ruff_cache/
+outputs/tables/national_clinic_all.csv
+outputs/tables/worsened_areas.csv
+outputs/tables/improved_areas.csv
+outputs/tables/local_clinic_all.csv

@@ -1,0 +1,31 @@
+{
+  "ktdb_emd_n": 3530,
+  "matched_n": 3525,
+  "unmatched": [
+    {
+      "HDCD": "32560260",
+      "full_name": "강원특별자치도 철원군 근동면"
+    },
+    {
+      "HDCD": "32560270",
+      "full_name": "강원특별자치도 철원군 원동면"
+    },
+    {
+      "HDCD": "32560280",
+      "full_name": "강원특별자치도 철원군 원남면"
+    },
+    {
+      "HDCD": "32560290",
+      "full_name": "강원특별자치도 철원군 임남면"
+    },
+    {
+      "HDCD": "32600260",
+      "full_name": "강원특별자치도 고성군 수동면"
+    }
+  ],
+  "selected_province": "전라북도",
+  "local_n": 243,
+  "local_matched_n": 243,
+  "national_worse_elder_residents": 555525.0,
+  "local_worse_elder_residents": 70374.0
+}

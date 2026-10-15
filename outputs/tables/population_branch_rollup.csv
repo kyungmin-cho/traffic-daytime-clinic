@@ -1,0 +1,63 @@
+﻿branch_code,branch_name,parent_code,branch_population,branch_elder65,method,evidence
+2771025400,대구광역시 달성군 논공읍공단출장소,2771025300,11928,1891,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+2771025700,대구광역시 달성군 다사읍서재출장소,2771025600,39247,3368,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+2871042500,인천광역시 강화군 서도면볼음출장소,2871042000,273,142,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+2872031500,인천광역시 옹진군 북도면장봉출장소,2872031000,969,401,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+2872034500,인천광역시 옹진군 대청면소청출장소,2872034000,221,101,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+2872037500,인천광역시 옹진군 자월면이작출장소,2872037000,370,158,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+4136025700,경기도 남양주시 화도읍동부출장소,4136025600,13533,2295,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+4136025800,경기도 남양주시 화도읍남부출장소,4136025600,35878,5536,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+5123025400,강원특별자치도 삼척시 원덕읍임원출장소,5123025300,1569,668,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+5175035900,강원특별자치도 영월군 한반도면쌍용출장소,5175035500,1571,692,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+5176032500,강원특별자치도 평창군 방림면계촌출장소,5176032000,1722,707,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+5177026000,강원특별자치도 정선군 신동읍함백출장소,5177025900,1551,604,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+5178031500,강원특별자치도 철원군 서면와수출장소,5178031000,3526,941,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+5181025100,강원특별자치도 인제군 인제읍귀둔출장소,5181025000,498,181,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+4375025400,충청북도 진천군 덕산읍혁신도시출장소,4375025300,0,0,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+4418032500,충청남도 보령시 오천면어항출장소,4418032000,1545,562,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+4418032900,충청남도 보령시 원산출장소,4418032000,1033,436,documented_override,https://www.brcn.go.kr/download/kor/sub01/publicProperty.pdf
+4613025100,전라남도 여수시 돌산읍우두출장소,4613025000,8078,2475,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+4613025200,전라남도 여수시 돌산읍죽포출장소,4613025000,1827,925,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+4613035600,전라남도 여수시 화정면개도출장소,4613035000,766,386,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+4615031500,전라남도 순천시 해룡면상삼출장소,4615031000,18885,1529,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+4615031600,전라남도 순천시 해룡면신대출장소,4615031000,33072,1272,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+4677025400,전라남도 고흥군 도양읍소록출장소,4677025300,538,361,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+4677025500,전라남도 고흥군 도양읍시산출장소,4677025300,192,82,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+4678038500,전라남도 보성군 득량면예당출장소,4678038000,1124,474,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+4679025100,전라남도 화순군 화순읍민원출장소,4679025000,0,0,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+4679031500,전라남도 화순군 한천면영외출장소,4679031000,411,233,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+4683025400,전라남도 영암군 삼호읍서부출장소,4683025300,6483,645,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+4684025800,전라남도 무안군 삼향읍남악출장소,4684025600,35032,2043,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+4687038500,전라남도 영광군 낙월면안마출장소,4687038000,198,84,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+4689029000,전라남도 완도군 노화읍넙도출장소,4689025600,715,265,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+4689035500,전라남도 완도군 청산면모도출장소,4689035000,221,109,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+4690036500,전라남도 진도군 조도면가사출장소,4690036000,240,112,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+4690036600,전라남도 진도군 조도면거차출장소,4690036000,382,138,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+4691025100,전라남도 신안군 지도읍선도출장소,4691025000,229,108,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+4691025400,전라남도 신안군 압해읍매화출장소,4691025300,247,120,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+4691025500,전라남도 신안군 압해읍고이도출장소,4691025300,210,99,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+4691031500,전라남도 신안군 증도면병풍출장소,4691031000,306,123,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+4691035500,전라남도 신안군 도초면우이도출장소,4691035000,222,76,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+4691036500,전라남도 신안군 흑산면가거도출장소,4691036000,386,89,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+4691036600,전라남도 신안군 흑산면태도출장소,4691036000,196,56,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+4691036700,전라남도 신안군 흑산면홍도출장소,4691036000,439,111,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+4691036800,전라남도 신안군 흑산면대둔도출장소,4691036000,279,103,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+4691040500,전라남도 신안군 안좌면자라출장소,4691040000,323,115,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+4711335500,경상북도 포항시 북구 죽장면상옥출장소,4711335000,617,325,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+4725033500,경상북도 상주시 낙동면동부출장소,4725033000,970,447,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+4725039500,경상북도 상주시 모서면서부출장소,4725039000,712,305,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+4725042600,경상북도 상주시 화북면서부출장소,4725042000,315,162,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+4725044500,경상북도 상주시 은척면북부출장소,4725044000,359,197,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+4728025100,경상북도 문경시 문경읍갈평출장소,4728025000,1084,474,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+4728025400,경상북도 문경시 가은읍북부출장소,4728025300,843,366,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+4777034500,경상북도 영덕군 지품면원전출장소,4777034000,527,309,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+4777035500,경상북도 영덕군 축산면축산출장소,4777035000,1556,770,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+4782025100,경상북도 청도군 화양읍남성현출장소,4782025000,1113,525,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+4782025400,경상북도 청도군 청도읍유호출장소,4782025300,1518,775,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+4793031500,경상북도 울진군 북면하당출장소,4793031000,645,321,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+4794031500,경상북도 울릉군 서면태하출장소,4794031000,454,195,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+4824089000,경상남도 사천시 신수출장소,4824051000,233,122,documented_override,https://mois.go.kr/frt/bbs/type001/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000052&nttId=31482
+4827025100,경상남도 밀양시 삼랑진임천출장소,4827025000,1249,582,documented_override,https://www.miryang.go.kr/twn/index.do?mnNo=1020000&owd=samrangjin
+4831036600,경상남도 거제시 사등면가조출장소,4831036000,1046,425,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+4831038500,경상남도 거제시 하청면칠천출장소,4831038000,1018,499,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름
+4831039500,경상남도 거제시 장목면외포출장소,4831039000,1306,538,explicit_parent_in_MOIS_name,mois_202312_age5.csv 행정구역 이름

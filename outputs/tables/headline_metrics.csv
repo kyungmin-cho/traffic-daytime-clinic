@@ -1,0 +1,18 @@
+﻿scope,metric,value,unit,denominator,source_file,code
+전국 공공의료시설,worse5_n,348.0,곳,전국3530읍면동; 검열아래확인가능최소,outputs/tables/national_summary.csv,src/analysis.py:summarize
+전국 공공의료시설,worse5_pct,9.858356940509914,%,전국3530읍면동; 검열아래확인가능최소,outputs/tables/national_summary.csv,src/analysis.py:summarize
+전국 공공의료시설,better5_n,199.0,곳,전국3530읍면동; 검열아래확인가능최소,outputs/tables/national_summary.csv,src/analysis.py:summarize
+전국 공공의료시설,better5_pct,5.637393767705382,%,전국3530읍면동; 검열아래확인가능최소,outputs/tables/national_summary.csv,src/analysis.py:summarize
+전국 병·의원,worse5_n,438.0,곳,전국3530읍면동; 검열아래확인가능최소,outputs/tables/national_summary.csv,src/analysis.py:summarize
+전국 병·의원,worse5_pct,12.407932011331445,%,전국3530읍면동; 검열아래확인가능최소,outputs/tables/national_summary.csv,src/analysis.py:summarize
+전국 병·의원,better5_n,244.0,곳,전국3530읍면동; 검열아래확인가능최소,outputs/tables/national_summary.csv,src/analysis.py:summarize
+전국 병·의원,better5_pct,6.912181303116147,%,전국3530읍면동; 검열아래확인가능최소,outputs/tables/national_summary.csv,src/analysis.py:summarize
+전국 종합병원,worse5_n,298.0,곳,전국3530읍면동; 검열아래확인가능최소,outputs/tables/national_summary.csv,src/analysis.py:summarize
+전국 종합병원,worse5_pct,8.441926345609065,%,전국3530읍면동; 검열아래확인가능최소,outputs/tables/national_summary.csv,src/analysis.py:summarize
+전국 종합병원,better5_n,200.0,곳,전국3530읍면동; 검열아래확인가능최소,outputs/tables/national_summary.csv,src/analysis.py:summarize
+전국 종합병원,better5_pct,5.6657223796034,%,전국3530읍면동; 검열아래확인가능최소,outputs/tables/national_summary.csv,src/analysis.py:summarize
+전북 병·의원,악화지역65세이상거주,70374.0,명,악화67읍면동; 실제환자아님,outputs/tables/local_clinic_all.csv,src/analysis.py:add_branch_population
+전북 병·의원,교통우선지역65세이상거주,42632.0,명,교통우선35읍면동,outputs/tables/local_quadrants.csv,src/analysis.py:classify_quadrant
+전북 병·의원,30분접근기회순손실대리값,5561.948524247615,명상당,지역내연령균등접근성가정,outputs/tables/local_clinic_all.csv,src/analysis.py:add_coverage_loss
+시나리오 L20km/r25%,실제승용차취소필요,133.7899756173383,차량-km,CNG버스30/중형휘발유차40kmh;공차20%,outputs/tables/carbon_scenarios.csv,src/analysis.py:breakeven
+시나리오 L20km/r25%,대상기존승용차운행규모,535.1599024693533,차량-km,전환25%;관측값아님,outputs/tables/carbon_scenarios.csv,src/analysis.py:breakeven

@@ -1,0 +1,137 @@
+{
+  "time": {
+    "all_rows": 349976,
+    "medical_rows": 95448,
+    "missing_value_cells_all_facilities": 20,
+    "facilities": [
+      "고등학교",
+      "공공의료시설",
+      "공항",
+      "대규모점포",
+      "버스터미널",
+      "병·의원",
+      "전통시장",
+      "종합병원",
+      "중학교",
+      "철도역",
+      "초등학교"
+    ],
+    "levels": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "schema": [
+      "Year",
+      "HDCD",
+      "Region",
+      "HDCD_Lev",
+      "Faci_CD",
+      "Time_Zone",
+      "Mode",
+      "HDCD_SD_NM",
+      "HDCD_SGG_NM",
+      "HDCD_EMD_NM",
+      "Region_NM",
+      "Faci_CA",
+      "Faci_NM",
+      "Time_Zone_NM",
+      "Mode_NM",
+      "minutes"
+    ]
+  },
+  "coverage": {
+    "all_rows": 349976,
+    "medical_rows": 95448,
+    "missing_value_cells_all_facilities": 80,
+    "facilities": [
+      "고등학교",
+      "공공의료시설",
+      "공항",
+      "대규모점포",
+      "버스터미널",
+      "병·의원",
+      "전통시장",
+      "종합병원",
+      "중학교",
+      "철도역",
+      "초등학교"
+    ],
+    "levels": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "schema": [
+      "Year",
+      "HDCD",
+      "Region",
+      "HDCD_Lev",
+      "Faci_CD",
+      "Time_Zone",
+      "Mode",
+      "HDCD_SD_NM",
+      "HDCD_SGG_NM",
+      "HDCD_EMD_NM",
+      "Region_NM",
+      "Faci_CA",
+      "Faci_NM",
+      "Time_Zone_NM",
+      "Mode_NM",
+      "coverage_15",
+      "coverage_30",
+      "coverage_45",
+      "coverage_60"
+    ]
+  },
+  "facilities": {
+    "all_rows": 349976,
+    "medical_rows": 95448,
+    "missing_value_cells_all_facilities": 80,
+    "facilities": [
+      "고등학교",
+      "공공의료시설",
+      "공항",
+      "대규모점포",
+      "버스터미널",
+      "병·의원",
+      "전통시장",
+      "종합병원",
+      "중학교",
+      "철도역",
+      "초등학교"
+    ],
+    "levels": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "schema": [
+      "Year",
+      "HDCD",
+      "Region",
+      "HDCD_Lev",
+      "Faci_CD",
+      "Time_Zone",
+      "Mode",
+      "HDCD_SD_NM",
+      "HDCD_SGG_NM",
+      "HDCD_EMD_NM",
+      "Region_NM",
+      "Faci_CA",
+      "Faci_NM",
+      "Time_Zone_NM",
+      "Mode_NM",
+      "facilities_15",
+      "facilities_30",
+      "facilities_45",
+      "facilities_60"
+    ]
+  }
+}

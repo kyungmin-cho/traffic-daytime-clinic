@@ -1,0 +1,50 @@
+{
+  "download_label": "대중교통GTFS(2024년 기준)",
+  "reference": "2024년3월 평일, 내부202403폴더와설명서10쪽 확인",
+  "stop_times_rows_scanned": 21889865,
+  "gyehwa_stops_in_boundary": 40,
+  "gyehwa_boardable_bus_departure_rows": 671,
+  "stop_route_pairs": 216,
+  "selection_rule": "daily_departures 최대, 동률은 stop_id·route_id 오름차순",
+  "selected": {
+    "stop_id": "BS_TAGO_TSB319000585",
+    "route_id": "BR_TAGO_TSB319000087",
+    "stop_name": "창북2",
+    "route_short_name": "600",
+    "daily_departures": 13,
+    "am0709": 0,
+    "day1214": 5,
+    "first_departure": "09:30:26",
+    "last_departure": "13:10:23",
+    "max_gap_minutes": 19.783333333333303
+  },
+  "selection_effect": "선택 계통(600 중 한 route_id)만 보면 오전0·낮5지만, 같은 이름 정류장의 모든 노선을 세면 아래 selected_stop_all_routes처럼 오전이 더 많다",
+  "selected_stop_all_routes": [
+    {
+      "stop_id": "BS_TAGO_TSB319000585",
+      "routes": "600·610·620·630",
+      "daily_departures": 31,
+      "am0709": 14,
+      "day1214": 5
+    },
+    {
+      "stop_id": "BS_TAGO_TSB319000586",
+      "routes": "600·610·620·630",
+      "daily_departures": 31,
+      "am0709": 14,
+      "day1214": 3
+    }
+  ],
+  "area_distinct_trips": {
+    "distinct_trips_total": 55,
+    "distinct_trips_am0709": 19,
+    "distinct_trips_day1214": 10
+  },
+  "limitations": [
+    "route_id는 노선번호와 1:1이 아님(600번이 여러 route_id로 나뉨); 노선 계통 하나로 정류장 공급을 대표하지 않음",
+    "방향·목적지 필드 없음; 실제 방향별 배차 간격으로 단정하지 않음",
+    "calendar 전요일1과2017~2030은 설명서상고정값; 실제일요일운행증거아님",
+    "2024년3월 평일 모델용 시각표,2026현행운행/정시성 관측아님",
+    "의료기관까지의 연결·환승·통행거리·차종미확인; 증회효과 재계산 안 함"
+  ]
+}

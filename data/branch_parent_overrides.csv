@@ -1,0 +1,4 @@
+branch_code,parent_code,reason,evidence_url,evidence_stop_id,evidence_lat,evidence_lon,ktdb_hdcd
+4418032900,4418032000,원산출장소는 주민등록 별도기관; 원산도출장소 위치가 KTDB 오천면 경계 내부; 보령시 재산목록의 오천면 원산도리 원산출장소 관리도 대조,https://www.brcn.go.kr/download/kor/sub01/publicProperty.pdf,BS_KOTI_BOR_56611,36.380280,126.431920,34030330
+4824089000,4824051000,MOIS가 법정 신수동의 주민등록 관할을 신수출장소로 명시; GTFS 신수도 좌표는 KTDB 동서동 경계 내부,https://mois.go.kr/frt/bbs/type001/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000052&nttId=31482,SS_ACC2_39004380,34.903766,128.074077,38060510
+4827025100,4827025000,삼랑진임천출장소는 삼랑진읍 일반현황에 소속 행정기관으로 명시,https://www.miryang.go.kr/twn/index.do?mnNo=1020000&owd=samrangjin,,,,

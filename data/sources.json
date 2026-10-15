@@ -1,0 +1,107 @@
+{
+  "files": [
+    {
+      "local_path": "ktdb_2023.zip",
+      "name": "2023년 교통접근성지표 ZIP(자료목록9번)",
+      "provider": "한국교통연구원 국가교통DB",
+      "url": "https://www.ktdb.go.kr/www/fileDownTrnsport.do?idx=48612&fileTy=2&fileNo=7",
+      "reference_date": "2023-12 통계; 대중교통 시각표 및 의료시설 2024-03",
+      "sha256": "692292315c0cf0c0b3b123e22da83a56107beb680652af59c837f8dae8de5049",
+      "bytes": 85353004,
+      "retrieved_date": "2026-10-15 Asia/Seoul"
+    },
+    {
+      "local_path": "ktdb_2023_duplicate.zip",
+      "name": "동일 ZIP 자료목록10번(중복 검증)",
+      "provider": "한국교통연구원 국가교통DB",
+      "url": "https://www.ktdb.go.kr/www/fileDownTrnsport.do?idx=48612&fileTy=2&fileNo=8",
+      "reference_date": "위와 동일",
+      "sha256": "692292315c0cf0c0b3b123e22da83a56107beb680652af59c837f8dae8de5049",
+      "bytes": 85353004,
+      "retrieved_date": "2026-10-15 Asia/Seoul"
+    },
+    {
+      "local_path": "mois_202312_age5.csv",
+      "name": "행정동별 연령별 인구현황 2023년12월 전체읍면동 계 5세",
+      "provider": "행정안전부 주민등록 인구통계",
+      "url": "https://jumin.mois.go.kr/downloadCsvAge.do?searchYearMonth=month&xlsStats=3",
+      "method": "POST",
+      "form": {
+        "sltOrgType": "1",
+        "sltOrgLvl1": "A",
+        "sltOrgLvl2": "",
+        "gender": "",
+        "sum": "sum",
+        "sltUndefType": "",
+        "searchYearStart": "2023",
+        "searchMonthStart": "12",
+        "searchYearEnd": "2023",
+        "searchMonthEnd": "12",
+        "sltOrderType": "1",
+        "sltOrderValue": "ASC",
+        "sltArgTypes": "5",
+        "sltArgTypeA": "0",
+        "sltArgTypeB": "100",
+        "category": "month",
+        "state": "3"
+      },
+      "reference_date": "2023-12-31 월말, 거주자·거주불명자·재외국민 포함; 외국인 제외",
+      "sha256": "52438430615d6b620cd2471d8c6b44892c14909b952182e0ae8d54a6c6f6622a",
+      "bytes": 726053,
+      "retrieved_date": "2026-10-15 Asia/Seoul"
+    },
+    {
+      "local_path": "Co2quantity.pdf",
+      "name": "View-T 이산화탄소(CO2) 배출계수 설명자료",
+      "provider": "한국교통연구원 KTDB View-T",
+      "url": "https://viewt.ktdb.go.kr/cong/pdf/Co2quantity.pdf",
+      "reference_date": "2021 승인 국가계수 활용, 문서의 구축연도2019~2024; 2023 차량군 실측계수 아님",
+      "sha256": "30fe9fd5c4d051d561676bf584322703132df1ffdebcfe971399ce4a0bc4583c",
+      "bytes": 1298850,
+      "retrieved_date": "2026-10-15 Asia/Seoul"
+    },
+    {
+      "local_path": "boundary_20231231.geojson",
+      "name": "HangJeongDong_ver20231231.geojson",
+      "provider": "vuski/admdongkor(현 schwa456/hangjeongdong), 통계청 경계 기반 민간 보정",
+      "url": "https://raw.githubusercontent.com/vuski/admdongkor/7360288277dfd12d74e54b959c59bdd66f852e3a/ver20231231/HangJeongDong_ver20231231.geojson",
+      "reference_date": "ver20231231, 고정 커밋7360288277dfd12d74e54b959c59bdd66f852e3a",
+      "sha256": "6916df854f1c49ce56cd280f5dc633ef89931ef02db845624ce886d49a23d528",
+      "bytes": 34650471,
+      "retrieved_date": "2026-10-15 Asia/Seoul"
+    },
+    {
+      "local_path": "gtfs_2024.zip",
+      "name": "대중교통GTFS(2024년 기준), 202403_GTFS_DataSet",
+      "provider": "한국교통연구원 KTDB, 공개 교통분석자료 신청",
+      "reference_date": "2024년3월 평일, 2025년배포 항목. calendar값은모형용 고정코딩",
+      "sha256": "9419e9fa1a86ac9344e50322feefeacdc96f1601708985dbd45571eb69f60f94",
+      "bytes": 214689001,
+      "retrieved_date": "2026-10-15 Asia/Seoul",
+      "procedure": "정보공개>자료신청>교통분석자료>교통망GISDB>대중교통>전국>배포2025>대중교통GTFS(2024년기준) 신청 후 받은 ZIP을 data/raw/gtfs_2024.zip으로 둔다",
+      "manual": true
+    }
+  ],
+  "ktdb_extracted_files": [
+    {
+      "local_path": "ktdb/00_교통접근성지표_기획서.pdf",
+      "sha256": "405e93846736e330edb06fc5f4198cb1b22cee1f375d7b7c04ffec7bf389a019",
+      "bytes": 573648
+    },
+    {
+      "local_path": "ktdb/01_평균접근시간_2023.xlsx",
+      "sha256": "c28297c6a98f5fb742deaa4c7f0aedd0e41bd572fb4f89375aa42b5471d34c36",
+      "bytes": 27566938
+    },
+    {
+      "local_path": "ktdb/02_접근가능인구비율_2023.xlsx",
+      "sha256": "657c46c3e14cecaec40ed706bfa79e0b9f8a593a29721396908a45614b27bf86",
+      "bytes": 29957273
+    },
+    {
+      "local_path": "ktdb/03_접근가능시설수_2023.xlsx",
+      "sha256": "ec4781ef36abf5f8d13489c4aa8bfb4a522ec73ff3967773f551aed92b29037d",
+      "bytes": 33965612
+    }
+  ]
+}

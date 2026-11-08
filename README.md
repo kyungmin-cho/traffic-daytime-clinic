@@ -1,4 +1,4 @@
-> Hackathon prototype, no longer maintained. Write-up: [kyungmin-cho/contests](https://github.com/kyungmin-cho/contests/tree/main/2026-12_traffic-daytime-clinic)
+> Contest prototype, no longer maintained. Write-up: [kyungmin-cho/contests](https://github.com/kyungmin-cho/contests/tree/main/2026-12_traffic-daytime-clinic)
 
 # 낮시간 병·의원 접근성 분석
 

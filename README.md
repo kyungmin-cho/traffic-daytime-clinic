@@ -1,3 +1,5 @@
+> Hackathon prototype, no longer maintained. Write-up: [kyungmin-cho/contests](https://github.com/kyungmin-cho/contests/tree/main/2026-12_traffic-daytime-clinic)
+
 # 낮시간 병·의원 접근성 분석
 
 「AI와 함께하는 교통문제 해결을 위한 데이터 분석 공모전」(한겨레·재단법인 숲과나눔, 2026) 제출 보고서 「출근 시간표로는 보이지 않는 병원 가는 길」의 분석 코드와 파생 결과다.
